@@ -49,8 +49,8 @@ export const PROFILE_DATA = {
   phone: "+91 9058339305",
   linkedin: "https://www.linkedin.com/in/jaytiwari-tech",
   github: "https://github.com/jaytiwari-tech",
-  profileImage: "/profile.jpg",
-  
+  profileImage: `${import.meta.env.BASE_URL}profile.jpg`,
+
   aboutSummary: `I am a Computer Science & Engineering student at IET Agra with hands-on experience in Artificial Intelligence, Computer Vision, and Smart Urban Infrastructure systems. Having served as a Smart City Intern at Agra Smart City Limited under the prestgious TULIP program (Ministry of Housing & Urban Affairs and AICTE), I specialize in building data-driven vision systems and analytical solutions that address real-world urban challenges. My core strengths span Python programming, OpenCV computer vision pipelines, machine learning models, and cloud infrastructure with a relentless drive for clean, scalable engineering.`,
 
   corePillars: [
