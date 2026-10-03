@@ -120,7 +120,7 @@ export const PROFILE_DATA = {
       program: "The Urban Learning Internship Program (TULIP)",
       location: "Agra, Uttar Pradesh, India",
       duration: "July 2025 – October 2025",
-      period: "4 Months",
+      period: "3 Months",
       badge: "Government Initiative",
       bullets: [
         "Selected for the prestigious TULIP internship program jointly launched by the Ministry of Housing & Urban Affairs (MoHUA) and AICTE.",
